@@ -16,7 +16,7 @@
     &middot;
     <a href="https://blockstack.org/careers">Job Board</a>
     &middot;
-    <a href="https://github.com/blockstack/design-system/wiki">Documentation</a>
+    <a href="https://github.com/blockstack/design-system/wiki">Documentation (Wiki)</a>
   </p>
 </p>
 
