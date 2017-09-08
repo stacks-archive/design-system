@@ -17,7 +17,7 @@
     &middot;
     <a href="https://blockstack.org/careers">Job Board</a>
     &middot;
-    <a href="https://github.com/blockstack/design-system">Design System Home</a>
+    <a href="https://github.com/blockstack/design-system/wiki">Documentation</a>
   </p>
 </p>
 
@@ -27,6 +27,5 @@
 
 Blockstack Design System is a design system built with Blockstack needs in mind reflecting both Blockstack branding as well as a design system for Blockstack Applications being built on Blockstack.
 
-## Documentation
-
+For more information and/or to contribute to the documentation...
 [›› See Wiki](https://github.com/blockstack/design-system/wiki)
