@@ -1,6 +1,5 @@
 <p align="center">
   <br>
-  <br>
   <a href="https://blockstack.org">
     <img src="https://media.githubusercontent.com/media/blockstack/designs/master/logo/RGB/bug/blockstack-bug-rounded-256x256.png" width=72 height=72>
   </a>
